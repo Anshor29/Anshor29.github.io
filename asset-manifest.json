@@ -1,28 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.cbe30711.chunk.css",
-    "main.js": "/static/js/main.eeec81cd.chunk.js",
-    "main.js.map": "/static/js/main.eeec81cd.chunk.js.map",
+    "main.js": "/static/js/main.1c42163a.chunk.js",
+    "main.js.map": "/static/js/main.1c42163a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c9c73c89.js",
     "runtime-main.js.map": "/static/js/runtime-main.c9c73c89.js.map",
     "static/js/2.3c46b8e6.chunk.js": "/static/js/2.3c46b8e6.chunk.js",
     "static/js/2.3c46b8e6.chunk.js.map": "/static/js/2.3c46b8e6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e8a140493bb241360bb30488c1b226b5.js": "/precache-manifest.e8a140493bb241360bb30488c1b226b5.js",
+    "precache-manifest.72120c1ccbc3f91b45ffd87512dcd77c.js": "/precache-manifest.72120c1ccbc3f91b45ffd87512dcd77c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cbe30711.chunk.css.map": "/static/css/main.cbe30711.chunk.css.map",
-    "static/media/bali-card.jpg": "/static/media/bali-card.8dafeaf7.jpg",
+    "static/media/bali-card.jpg": "/static/media/bali-card.53ccd3bf.jpg",
     "static/media/style.css": "/static/media/man-2.3860405c.png",
-    "static/media/react-logo.png": "/static/media/react-logo.47ce6e77.png",
     "static/media/undraw_1.png": "/static/media/undraw_1.f9505dca.png",
     "static/media/undraw_2.png": "/static/media/undraw_2.111a7955.png",
-    "static/media/undraw_3.png": "/static/media/undraw_3.d0d399a8.png",
-    "static/media/whimsical.png": "/static/media/whimsical.4e464d2c.png"
+    "static/media/undraw_3.png": "/static/media/undraw_3.d0d399a8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c9c73c89.js",
     "static/js/2.3c46b8e6.chunk.js",
     "static/css/main.cbe30711.chunk.css",
-    "static/js/main.eeec81cd.chunk.js"
+    "static/js/main.1c42163a.chunk.js"
   ]
 }
